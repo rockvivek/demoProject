@@ -1,0 +1,1 @@
+print("hum hai ya ke raja")
