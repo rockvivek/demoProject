@@ -1,0 +1,1 @@
+this is a simple demo file that is used to check the git command from the command line and try different stuff
